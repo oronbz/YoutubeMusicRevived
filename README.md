@@ -1,6 +1,6 @@
 # YoutubeMusicRevived - Work In Progress
 This is a chrome extension to revive the amazing Music tab that was removed from YouTube
-The extension is work in progress and not in chrome web store yet, but you can download it now and test it on your own (see Usage)
+The extension is work in progress and not in chrome web store yet, but you can download it now and test it on your own (see [Usage](https://github.com/oronbz/YoutubeMusicRevived#usage))
 
 # Usage
 `git clone https://github.com/oronbz/YoutubeMusicRevived.git`
