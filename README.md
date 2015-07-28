@@ -7,4 +7,4 @@ The extension is work in progress and not in chrome web store yet, but you can d
 
 It’s really easy to test a new extension in Chrome. Type “chrome://extensions” in a tab to bring up the extensions page.
 
-Once on this page, check “Developer mode” to enable loading unpacked extensions. This will allow you to load your extension from a folder. Finally, click “Load unpacked extension” or simply drag the “YoutubeMusicRevived” folder onto the page to load up the extension. You should immediately see the extension show up as a Browser Action with your icon in the toolbar window of the current tab.
+Once on this page, check “Developer mode” to enable loading unpacked extensions. This will allow you to load your extension from a folder. Finally, click “Load unpacked extension” or simply drag the “YoutubeMusicRevived” folder onto the page to load up the extension. That's it, next time you're on YouTube you should see the Music tab REVIVED!
